@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ibo-NL
+- 👋 Hi, I’m @bazzie007
 - 👀 I’m interested in Tech, Cars, & Jailbreak
 
 <!---
-Ibo-NL/Ibo-NL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bazzie007/bazzie007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

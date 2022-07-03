@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bazzie007
-- 👀 I’m interested in Tech, Cars, & Jailbreak
+- 👀 I’m interested in tech & cars
 
 <!---
 bazzie007/bazzie007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
